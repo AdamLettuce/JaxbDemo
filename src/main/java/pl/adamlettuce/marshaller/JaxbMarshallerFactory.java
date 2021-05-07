@@ -1,4 +1,4 @@
-package pl.adamsalata.marshaller;
+package pl.adamlettuce.marshaller;
 
 
 public class JaxbMarshallerFactory {

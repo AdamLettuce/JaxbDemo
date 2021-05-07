@@ -1,13 +1,13 @@
-package pl.adamsalata.application;
+package pl.adamlettuce.application;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import pl.adamsalata.marshaller.JaxbMarshallerFactory;
-import pl.adamsalata.marshaller.JaxbUnmarshaller;
-import pl.adamsalata.xmlobjects.Operation;
-import pl.adamsalata.xmlobjects.Operations;
+import pl.adamlettuce.marshaller.JaxbMarshallerFactory;
+import pl.adamlettuce.marshaller.JaxbUnmarshaller;
+import pl.adamlettuce.xmlobjects.Operation;
+import pl.adamlettuce.xmlobjects.Operations;
 
 
 public class Main {

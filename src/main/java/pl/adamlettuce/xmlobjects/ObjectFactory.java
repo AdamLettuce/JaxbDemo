@@ -1,5 +1,5 @@
 
-package pl.adamsalata.xmlobjects;
+package pl.adamlettuce.xmlobjects;
 
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.annotation.XmlElementDecl;

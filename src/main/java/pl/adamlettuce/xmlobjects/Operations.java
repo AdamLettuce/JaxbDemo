@@ -1,5 +1,5 @@
 
-package pl.adamsalata.xmlobjects;
+package pl.adamlettuce.xmlobjects;
 
 import java.util.ArrayList;
 import java.util.List;

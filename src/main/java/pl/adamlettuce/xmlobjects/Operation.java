@@ -1,5 +1,5 @@
 
-package pl.adamsalata.xmlobjects;
+package pl.adamlettuce.xmlobjects;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
